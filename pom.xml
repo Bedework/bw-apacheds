@@ -12,7 +12,7 @@
   <version>1.0.0-SNAPSHOT</version>
 
   <packaging>pom</packaging>
-  <name>Bedework: COnfigured Apacheds</name>
+  <name>Bedework: Configured Apacheds</name>
   <description>Package configured apacheds for wildflyfeature pack install</description>
   <url>https://github.com/Bedework/bw-apacheds</url>
 
